@@ -1,0 +1,281 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 56,
+            "width": 55,
+            "position": {
+                "column_min": 28,
+                "row_min": 44,
+                "column_max": 83,
+                "row_max": 100
+            }
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 56,
+            "width": 56,
+            "position": {
+                "column_min": 112,
+                "row_min": 44,
+                "column_max": 168,
+                "row_max": 100
+            },
+            "children": [
+                16
+            ]
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 58,
+            "width": 59,
+            "position": {
+                "column_min": 194,
+                "row_min": 43,
+                "column_max": 253,
+                "row_max": 101
+            },
+            "children": [
+                3
+            ]
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 34,
+            "width": 34,
+            "position": {
+                "column_min": 207,
+                "row_min": 55,
+                "column_max": 241,
+                "row_max": 89
+            },
+            "parent": 2
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 56,
+            "width": 56,
+            "position": {
+                "column_min": 196,
+                "row_min": 582,
+                "column_max": 252,
+                "row_max": 638
+            },
+            "children": [
+                6
+            ]
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 56,
+            "width": 56,
+            "position": {
+                "column_min": 280,
+                "row_min": 582,
+                "column_max": 336,
+                "row_max": 638
+            }
+        },
+        {
+            "id": 6,
+            "class": "Compo",
+            "height": 34,
+            "width": 31,
+            "position": {
+                "column_min": 210,
+                "row_min": 593,
+                "column_max": 241,
+                "row_max": 627
+            },
+            "parent": 4
+        },
+        {
+            "id": 7,
+            "class": "Compo",
+            "height": 40,
+            "width": 43,
+            "position": {
+                "column_min": 112,
+                "row_min": 598,
+                "column_max": 155,
+                "row_max": 638
+            },
+            "children": [
+                8
+            ]
+        },
+        {
+            "id": 8,
+            "class": "Compo",
+            "height": 14,
+            "width": 21,
+            "position": {
+                "column_min": 130,
+                "row_min": 603,
+                "column_max": 151,
+                "row_max": 617
+            },
+            "parent": 7
+        },
+        {
+            "id": 9,
+            "class": "Compo",
+            "height": 69,
+            "width": 449,
+            "position": {
+                "column_min": 0,
+                "row_min": 665,
+                "column_max": 449,
+                "row_max": 734
+            },
+            "children": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "id": 10,
+            "class": "Compo",
+            "height": 27,
+            "width": 26,
+            "position": {
+                "column_min": 45,
+                "row_min": 689,
+                "column_max": 71,
+                "row_max": 716
+            },
+            "parent": 9
+        },
+        {
+            "id": 11,
+            "class": "Compo",
+            "height": 28,
+            "width": 20,
+            "position": {
+                "column_min": 381,
+                "row_min": 688,
+                "column_max": 401,
+                "row_max": 716
+            },
+            "parent": 9
+        },
+        {
+            "id": 12,
+            "class": "Compo",
+            "height": 8,
+            "width": 10,
+            "position": {
+                "column_min": 0,
+                "row_min": 695,
+                "column_max": 10,
+                "row_max": 703
+            },
+            "parent": 9
+        },
+        {
+            "id": 13,
+            "class": "Compo",
+            "height": 18,
+            "width": 16,
+            "position": {
+                "column_min": 85,
+                "row_min": 765,
+                "column_max": 101,
+                "row_max": 783
+            }
+        },
+        {
+            "id": 14,
+            "class": "Compo",
+            "height": 17,
+            "width": 17,
+            "position": {
+                "column_min": 216,
+                "row_min": 765,
+                "column_max": 233,
+                "row_max": 782
+            }
+        },
+        {
+            "id": 15,
+            "class": "Compo",
+            "height": 17,
+            "width": 17,
+            "position": {
+                "column_min": 345,
+                "row_min": 765,
+                "column_max": 362,
+                "row_max": 782
+            }
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 11,
+            "width": 40,
+            "position": {
+                "column_min": 120,
+                "row_min": 65,
+                "column_max": 160,
+                "row_max": 76
+            },
+            "text_content": "Booking",
+            "keyboard": false,
+            "parent": 1
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 11,
+            "width": 54,
+            "position": {
+                "column_min": 30,
+                "row_min": 111,
+                "column_max": 84,
+                "row_max": 122
+            },
+            "text_content": "Pinterest",
+            "keyboard": false
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 12,
+            "width": 56,
+            "position": {
+                "column_min": 197,
+                "row_min": 111,
+                "column_max": 253,
+                "row_max": 123
+            },
+            "text_content": "Pending ...",
+            "keyboard": false
+        },
+        {
+            "id": 19,
+            "class": "Text",
+            "height": 11,
+            "width": 67,
+            "position": {
+                "column_min": 107,
+                "row_min": 112,
+                "column_max": 174,
+                "row_max": 123
+            },
+            "text_content": "Booking.c ...",
+            "keyboard": false
+        }
+    ],
+    "img_shape": [
+        800,
+        450,
+        3
+    ]
+}

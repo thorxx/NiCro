@@ -1,0 +1,209 @@
+{
+    "img_shape": [
+        820,
+        540,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "No SIM",
+            "column_min": 109,
+            "row_min": 74,
+            "column_max": 142,
+            "row_max": 83,
+            "width": 33,
+            "height": 9
+        },
+        {
+            "id": 1,
+            "content": "10:18 pm",
+            "column_min": 262,
+            "row_min": 72,
+            "column_max": 307,
+            "row_max": 82,
+            "width": 45,
+            "height": 10
+        },
+        {
+            "id": 2,
+            "content": "52 %",
+            "column_min": 416,
+            "row_min": 70,
+            "column_max": 432,
+            "row_max": 81,
+            "width": 16,
+            "height": 11
+        },
+        {
+            "id": 3,
+            "content": "Booking.com",
+            "column_min": 227,
+            "row_min": 94,
+            "column_max": 343,
+            "row_max": 115,
+            "width": 116,
+            "height": 21
+        },
+        {
+            "id": 4,
+            "content": "Find a rental car",
+            "column_min": 114,
+            "row_min": 144,
+            "column_max": 282,
+            "row_max": 168,
+            "width": 168,
+            "height": 24
+        },
+        {
+            "id": 5,
+            "content": "Return to same location",
+            "column_min": 117,
+            "row_min": 185,
+            "column_max": 274,
+            "row_max": 204,
+            "width": 157,
+            "height": 19
+        },
+        {
+            "id": 6,
+            "content": "Yes",
+            "column_min": 364,
+            "row_min": 187,
+            "column_max": 385,
+            "row_max": 200,
+            "width": 21,
+            "height": 13
+        },
+        {
+            "id": 7,
+            "content": "Pick up location",
+            "column_min": 155,
+            "row_min": 240,
+            "column_max": 252,
+            "row_max": 257,
+            "width": 97,
+            "height": 17
+        },
+        {
+            "id": 8,
+            "content": "Fri ,",
+            "column_min": 154,
+            "row_min": 290,
+            "column_max": 171,
+            "row_max": 306,
+            "width": 17,
+            "height": 16
+        },
+        {
+            "id": 9,
+            "content": "May 2022",
+            "column_min": 190,
+            "row_min": 288,
+            "column_max": 249,
+            "row_max": 306,
+            "width": 59,
+            "height": 18
+        },
+        {
+            "id": 10,
+            "content": "10:00 am",
+            "column_min": 360,
+            "row_min": 290,
+            "column_max": 416,
+            "row_max": 302,
+            "width": 56,
+            "height": 12
+        },
+        {
+            "id": 11,
+            "content": "Mon ,",
+            "column_min": 155,
+            "row_min": 341,
+            "column_max": 184,
+            "row_max": 356,
+            "width": 29,
+            "height": 15
+        },
+        {
+            "id": 12,
+            "content": "May 2022",
+            "column_min": 202,
+            "row_min": 339,
+            "column_max": 261,
+            "row_max": 355,
+            "width": 59,
+            "height": 16
+        },
+        {
+            "id": 13,
+            "content": "10:00 am",
+            "column_min": 361,
+            "row_min": 338,
+            "column_max": 416,
+            "row_max": 354,
+            "width": 55,
+            "height": 16
+        },
+        {
+            "id": 14,
+            "content": "Driver's age : 30-65",
+            "column_min": 156,
+            "row_min": 388,
+            "column_max": 275,
+            "row_max": 405,
+            "width": 119,
+            "height": 17
+        },
+        {
+            "id": 15,
+            "content": "Search",
+            "column_min": 264,
+            "row_min": 436,
+            "column_max": 310,
+            "row_max": 452,
+            "width": 46,
+            "height": 16
+        },
+        {
+            "id": 16,
+            "content": "Manage an existing car booking",
+            "column_min": 146,
+            "row_min": 516,
+            "column_max": 338,
+            "row_max": 539,
+            "width": 192,
+            "height": 23
+        },
+        {
+            "id": 17,
+            "content": "Terms and conditions",
+            "column_min": 218,
+            "row_min": 579,
+            "column_max": 356,
+            "row_max": 600,
+            "width": 138,
+            "height": 21
+        },
+        {
+            "id": 18,
+            "content": "Privacy Notice",
+            "column_min": 241,
+            "row_min": 614,
+            "column_max": 333,
+            "row_max": 634,
+            "width": 92,
+            "height": 20
+        },
+        {
+            "id": 19,
+            "content": "Contact us",
+            "column_min": 254,
+            "row_min": 653,
+            "column_max": 323,
+            "row_max": 667,
+            "width": 69,
+            "height": 14
+        }
+    ]
+}

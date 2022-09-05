@@ -1,0 +1,97 @@
+{
+    "img_shape": [
+        2480,
+        2200,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "5:00",
+            "keyboard": false,
+            "column_min": 21,
+            "row_min": 19,
+            "column_max": 90,
+            "row_max": 45,
+            "width": 69,
+            "height": 26
+        },
+        {
+            "id": 5,
+            "content": "P",
+            "keyboard": false,
+            "column_min": 1059,
+            "row_min": 190,
+            "column_max": 1135,
+            "row_max": 274,
+            "width": 76,
+            "height": 84
+        },
+        {
+            "id": 3,
+            "content": "Booking",
+            "keyboard": false,
+            "column_min": 695,
+            "row_min": 212,
+            "column_max": 791,
+            "row_max": 240,
+            "width": 96,
+            "height": 28
+        },
+        {
+            "id": 1,
+            "content": "Chrome",
+            "keyboard": false,
+            "column_min": 333,
+            "row_min": 325,
+            "column_max": 443,
+            "row_max": 350,
+            "width": 110,
+            "height": 25
+        },
+        {
+            "id": 4,
+            "content": "Booking.com",
+            "keyboard": false,
+            "column_min": 652,
+            "row_min": 327,
+            "column_max": 834,
+            "row_max": 356,
+            "width": 182,
+            "height": 29
+        },
+        {
+            "id": 6,
+            "content": "Pinterest",
+            "keyboard": false,
+            "column_min": 1038,
+            "row_min": 327,
+            "column_max": 1165,
+            "row_max": 351,
+            "width": 127,
+            "height": 24
+        },
+        {
+            "id": 7,
+            "content": "\u2193",
+            "keyboard": false,
+            "column_min": 1782,
+            "row_min": 2210,
+            "column_max": 1830,
+            "row_max": 2266,
+            "width": 48,
+            "height": 56
+        },
+        {
+            "id": 2,
+            "content": "G",
+            "keyboard": false,
+            "column_min": 365,
+            "row_min": 2213,
+            "column_max": 427,
+            "row_max": 2271,
+            "width": 62,
+            "height": 58
+        }
+    ]
+}

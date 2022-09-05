@@ -1,0 +1,119 @@
+{
+    "img_shape": [
+        1920,
+        1080,
+        3
+    ],
+    "texts": [
+        {
+            "id": 1,
+            "content": "M",
+            "keyboard": false,
+            "column_min": 177,
+            "row_min": 16,
+            "column_max": 216,
+            "row_max": 43,
+            "width": 39,
+            "height": 27
+        },
+        {
+            "id": 0,
+            "content": "5:00",
+            "keyboard": false,
+            "column_min": 21,
+            "row_min": 18,
+            "column_max": 91,
+            "row_max": 46,
+            "width": 70,
+            "height": 28
+        },
+        {
+            "id": 5,
+            "content": "III",
+            "keyboard": false,
+            "column_min": 252,
+            "row_min": 18,
+            "column_max": 264,
+            "row_max": 24,
+            "width": 12,
+            "height": 6
+        },
+        {
+            "id": 2,
+            "content": "P",
+            "keyboard": false,
+            "column_min": 99,
+            "row_min": 137,
+            "column_max": 169,
+            "row_max": 219,
+            "width": 70,
+            "height": 82
+        },
+        {
+            "id": 6,
+            "content": "Booking",
+            "keyboard": false,
+            "column_min": 288,
+            "row_min": 158,
+            "column_max": 384,
+            "row_max": 183,
+            "width": 96,
+            "height": 25
+        },
+        {
+            "id": 3,
+            "content": "Pinterest",
+            "keyboard": false,
+            "column_min": 74,
+            "row_min": 267,
+            "column_max": 202,
+            "row_max": 293,
+            "width": 128,
+            "height": 26
+        },
+        {
+            "id": 8,
+            "content": "Pending ...",
+            "keyboard": false,
+            "column_min": 473,
+            "row_min": 268,
+            "column_max": 609,
+            "row_max": 297,
+            "width": 136,
+            "height": 29
+        },
+        {
+            "id": 7,
+            "content": "Booking.c ...",
+            "keyboard": false,
+            "column_min": 258,
+            "row_min": 269,
+            "column_max": 418,
+            "row_max": 297,
+            "width": 160,
+            "height": 28
+        },
+        {
+            "id": 9,
+            "content": "B",
+            "keyboard": false,
+            "column_min": 292,
+            "row_min": 1436,
+            "column_max": 371,
+            "row_max": 1491,
+            "width": 79,
+            "height": 55
+        },
+        {
+            "id": 4,
+            "content": "G",
+            "keyboard": false,
+            "column_min": 110,
+            "row_min": 1652,
+            "column_max": 177,
+            "row_max": 1714,
+            "width": 67,
+            "height": 62
+        }
+    ]
+}

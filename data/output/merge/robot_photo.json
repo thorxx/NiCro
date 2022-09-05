@@ -1,0 +1,448 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 799,
+            "width": 407,
+            "position": {
+                "column_min": 76,
+                "row_min": 0,
+                "column_max": 483,
+                "row_max": 799
+            },
+            "children": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29
+            ]
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 16,
+            "width": 15,
+            "position": {
+                "column_min": 198,
+                "row_min": 14,
+                "column_max": 213,
+                "row_max": 30
+            },
+            "parent": 0
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 21,
+            "width": 15,
+            "position": {
+                "column_min": 108,
+                "row_min": 94,
+                "column_max": 123,
+                "row_max": 115
+            },
+            "parent": 0
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 31,
+            "width": 47,
+            "position": {
+                "column_min": 396,
+                "row_min": 174,
+                "column_max": 443,
+                "row_max": 205
+            },
+            "parent": 0
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 15,
+            "width": 18,
+            "position": {
+                "column_min": 122,
+                "row_min": 236,
+                "column_max": 140,
+                "row_max": 251
+            },
+            "parent": 0
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 17,
+            "width": 19,
+            "position": {
+                "column_min": 122,
+                "row_min": 284,
+                "column_max": 141,
+                "row_max": 301
+            },
+            "parent": 0
+        },
+        {
+            "id": 6,
+            "class": "Compo",
+            "height": 16,
+            "width": 18,
+            "position": {
+                "column_min": 122,
+                "row_min": 332,
+                "column_max": 140,
+                "row_max": 348
+            },
+            "parent": 0
+        },
+        {
+            "id": 7,
+            "class": "Compo",
+            "height": 14,
+            "width": 12,
+            "position": {
+                "column_min": 182,
+                "row_min": 333,
+                "column_max": 194,
+                "row_max": 347
+            },
+            "parent": 0
+        },
+        {
+            "id": 8,
+            "class": "Compo",
+            "height": 19,
+            "width": 16,
+            "position": {
+                "column_min": 124,
+                "row_min": 379,
+                "column_max": 140,
+                "row_max": 398
+            },
+            "parent": 0
+        },
+        {
+            "id": 9,
+            "class": "Compo",
+            "height": 15,
+            "width": 20,
+            "position": {
+                "column_min": 112,
+                "row_min": 509,
+                "column_max": 132,
+                "row_max": 524
+            },
+            "parent": 0
+        },
+        {
+            "id": 10,
+            "class": "Compo",
+            "height": 61,
+            "width": 62,
+            "position": {
+                "column_min": 250,
+                "row_min": 724,
+                "column_max": 312,
+                "row_max": 785
+            },
+            "parent": 0
+        },
+        {
+            "id": 11,
+            "class": "Text",
+            "height": 8,
+            "width": 32,
+            "position": {
+                "column_min": 106,
+                "row_min": 72,
+                "column_max": 138,
+                "row_max": 80
+            },
+            "text_content": "No SIM",
+            "parent": 0
+        },
+        {
+            "id": 12,
+            "class": "Text",
+            "height": 10,
+            "width": 44,
+            "position": {
+                "column_min": 255,
+                "row_min": 70,
+                "column_max": 299,
+                "row_max": 80
+            },
+            "text_content": "10:18 pm",
+            "parent": 0
+        },
+        {
+            "id": 13,
+            "class": "Text",
+            "height": 11,
+            "width": 16,
+            "position": {
+                "column_min": 405,
+                "row_min": 68,
+                "column_max": 421,
+                "row_max": 79
+            },
+            "text_content": "52 %",
+            "parent": 0
+        },
+        {
+            "id": 14,
+            "class": "Text",
+            "height": 21,
+            "width": 113,
+            "position": {
+                "column_min": 221,
+                "row_min": 91,
+                "column_max": 334,
+                "row_max": 112
+            },
+            "text_content": "Booking.com",
+            "parent": 0
+        },
+        {
+            "id": 15,
+            "class": "Text",
+            "height": 23,
+            "width": 164,
+            "position": {
+                "column_min": 111,
+                "row_min": 140,
+                "column_max": 275,
+                "row_max": 163
+            },
+            "text_content": "Find a rental car",
+            "parent": 0
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 19,
+            "width": 153,
+            "position": {
+                "column_min": 114,
+                "row_min": 180,
+                "column_max": 267,
+                "row_max": 199
+            },
+            "text_content": "Return to same location",
+            "parent": 0
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 13,
+            "width": 20,
+            "position": {
+                "column_min": 355,
+                "row_min": 182,
+                "column_max": 375,
+                "row_max": 195
+            },
+            "text_content": "Yes",
+            "parent": 0
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 16,
+            "width": 94,
+            "position": {
+                "column_min": 151,
+                "row_min": 234,
+                "column_max": 245,
+                "row_max": 250
+            },
+            "text_content": "Pick up location",
+            "parent": 0
+        },
+        {
+            "id": 19,
+            "class": "Text",
+            "height": 16,
+            "width": 16,
+            "position": {
+                "column_min": 150,
+                "row_min": 282,
+                "column_max": 166,
+                "row_max": 298
+            },
+            "text_content": "Fri ,",
+            "parent": 0
+        },
+        {
+            "id": 20,
+            "class": "Text",
+            "height": 12,
+            "width": 54,
+            "position": {
+                "column_min": 351,
+                "row_min": 282,
+                "column_max": 405,
+                "row_max": 294
+            },
+            "text_content": "10:00 am",
+            "parent": 0
+        },
+        {
+            "id": 21,
+            "class": "Text",
+            "height": 15,
+            "width": 28,
+            "position": {
+                "column_min": 151,
+                "row_min": 332,
+                "column_max": 179,
+                "row_max": 347
+            },
+            "text_content": "Mon ,",
+            "parent": 0
+        },
+        {
+            "id": 22,
+            "class": "Text",
+            "height": 16,
+            "width": 57,
+            "position": {
+                "column_min": 197,
+                "row_min": 330,
+                "column_max": 254,
+                "row_max": 346
+            },
+            "text_content": "May 2022",
+            "parent": 0
+        },
+        {
+            "id": 23,
+            "class": "Text",
+            "height": 16,
+            "width": 53,
+            "position": {
+                "column_min": 352,
+                "row_min": 329,
+                "column_max": 405,
+                "row_max": 345
+            },
+            "text_content": "10:00 am",
+            "parent": 0
+        },
+        {
+            "id": 24,
+            "class": "Text",
+            "height": 17,
+            "width": 116,
+            "position": {
+                "column_min": 152,
+                "row_min": 378,
+                "column_max": 268,
+                "row_max": 395
+            },
+            "text_content": "Driver's age : 30-65",
+            "parent": 0
+        },
+        {
+            "id": 25,
+            "class": "Text",
+            "height": 15,
+            "width": 45,
+            "position": {
+                "column_min": 257,
+                "row_min": 425,
+                "column_max": 302,
+                "row_max": 440
+            },
+            "text_content": "Search",
+            "parent": 0
+        },
+        {
+            "id": 26,
+            "class": "Text",
+            "height": 22,
+            "width": 187,
+            "position": {
+                "column_min": 142,
+                "row_min": 503,
+                "column_max": 329,
+                "row_max": 525
+            },
+            "text_content": "Manage an existing car booking",
+            "parent": 0
+        },
+        {
+            "id": 27,
+            "class": "Text",
+            "height": 21,
+            "width": 135,
+            "position": {
+                "column_min": 212,
+                "row_min": 564,
+                "column_max": 347,
+                "row_max": 585
+            },
+            "text_content": "Terms and conditions",
+            "parent": 0
+        },
+        {
+            "id": 28,
+            "class": "Text",
+            "height": 19,
+            "width": 89,
+            "position": {
+                "column_min": 235,
+                "row_min": 599,
+                "column_max": 324,
+                "row_max": 618
+            },
+            "text_content": "Privacy Notice",
+            "parent": 0
+        },
+        {
+            "id": 29,
+            "class": "Text",
+            "height": 13,
+            "width": 68,
+            "position": {
+                "column_min": 247,
+                "row_min": 637,
+                "column_max": 315,
+                "row_max": 650
+            },
+            "text_content": "Contact us",
+            "parent": 0
+        }
+    ],
+    "img_shape": [
+        800,
+        526,
+        3
+    ]
+}
