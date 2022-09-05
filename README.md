@@ -59,3 +59,5 @@ The Robotic System contains a Robot Arm and a camera. We use a *UArm Swift Pro R
 ### Usage
 >Check [NiCro-main.ipynb](NiCro-main.ipynb) for detailed instructions. 
 
+### Data
+The 107 test cases on 28 Apps + a home page can be download [here](https://drive.google.com/file/d/1vcb-jeHJKdXOhpLG1sgbFViTlotL2N3O/view?usp=sharing)
